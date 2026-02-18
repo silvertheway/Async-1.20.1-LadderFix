@@ -117,9 +117,9 @@ public abstract class LivingEntityMixin extends Entity {
     private void causeFallDamage(float fallDistance, float multiplier, DamageSource source, CallbackInfoReturnable<Boolean> cir) {
         BlockPos pos = new BlockPos(Mth.floor(this.getX()), Mth.floor(this.getY()), Mth.floor(this.getZ()));
         BlockState currentBlock = this.level().getBlockState(pos);
-
-        if (currentBlock.is(BlockTags.CLIMBABLE)) {
-            cir.setReturnValue(false);
-        }
+        // Test commit.
+       // if (currentBlock.is(BlockTags.CLIMBABLE)) {
+       //     cir.setReturnValue(false);
+       // }
     }
 }
