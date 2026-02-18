@@ -1,8 +1,6 @@
 <div align="center">
 
 # Async 1.20.1 - Minecraft Entity Multi-Threading Mod ⚙️
-
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?style=for-the-badge&logo=discord&label=Discord)](https://discord.com/invite/scvCQ2qKS3)
 [![GitHub Issues](https://img.shields.io/github/issues/AxalotLDev/Async?style=for-the-badge)](https://github.com/Bliss-tbh/Async-1.20.1/issues)
 </div>
 
