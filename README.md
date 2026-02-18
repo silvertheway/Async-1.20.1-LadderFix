@@ -1,6 +1,7 @@
 <div align="center">
 
 # Async 1.20.1 - Minecraft Entity Multi-Threading Mod ⚙️
+# This fork is just to fix the ladder/climables issue. I will maybe continue with some config features later on.
 [![GitHub Issues](https://img.shields.io/github/issues/AxalotLDev/Async?style=for-the-badge)](https://github.com/Bliss-tbh/Async-1.20.1/issues)
 </div>
 
